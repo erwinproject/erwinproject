@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to My Dash</h2>
+<h2 align="left">Hi 👋! My name is Rizki Kotet and I am a Beginner from Indonesia</h2>
 
 ###
 
@@ -10,6 +10,9 @@
 ###
 
 <div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -30,7 +33,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/erwinnc" target="_blank">
+  <a href="https://t.me/rizki_kotet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -38,7 +41,6 @@
 ###
 
 <br clear="both">
-
 
 
 ###
