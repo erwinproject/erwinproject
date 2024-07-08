@@ -9,6 +9,11 @@
         height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
+
 ###
 
 <div align="center">
